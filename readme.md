@@ -1,7 +1,8 @@
 # Read Me
 
-# Getting started
+## Getting started
 
 -`npm install`
 
 -`npm start`
+
